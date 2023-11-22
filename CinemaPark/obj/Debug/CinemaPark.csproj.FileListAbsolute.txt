@@ -1,0 +1,30 @@
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark.csprojAssemblyReference.cache
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\MainWindow.g.cs
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\App.g.cs
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark_MarkupCompile.cache
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark_MarkupCompile.lref
+D:\!Visual Studio Source\CinemaPark\CinemaPark\bin\Debug\CinemaPark.exe.config
+D:\!Visual Studio Source\CinemaPark\CinemaPark\bin\Debug\CinemaPark.exe
+D:\!Visual Studio Source\CinemaPark\CinemaPark\bin\Debug\CinemaPark.pdb
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\MainWindow.baml
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark.g.resources
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark.Properties.Resources.resources
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark.csproj.GenerateResource.cache
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark.csproj.CoreCompileInputs.cache
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark.exe
+D:\!Visual Studio Source\CinemaPark\CinemaPark\obj\Debug\CinemaPark.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\bin\Debug\CinemaPark.exe.config
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\bin\Debug\CinemaPark.exe
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\bin\Debug\CinemaPark.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark.csprojAssemblyReference.cache
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\MainWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\App.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark_MarkupCompile.cache
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark_MarkupCompile.lref
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\MainWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark.g.resources
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark.Properties.Resources.resources
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark.csproj.GenerateResource.cache
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark.csproj.CoreCompileInputs.cache
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark.exe
+C:\Users\kuanc\YandexDisk\C#.NET\CinemaPark\CinemaPark\obj\Debug\CinemaPark.pdb

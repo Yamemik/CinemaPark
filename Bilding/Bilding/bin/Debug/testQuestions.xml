@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<Test>
+  <NameTest>Проектирование зданий</NameTest>
+  <Questions>
+    <Question IsOnlyOne="true">
+      <Text>Чертеж это:</Text>
+      <Answers>
+        <Answer IsRight="true">документ, состоящий из изображений предмета</Answer>
+        <Answer IsRight="false">документ, состоящий из изображений фигуры</Answer>
+        <Answer IsRight="false">бумага с надписями и чертежами</Answer>
+        <Answer IsRight="false">формат с надписями и чертежами</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="false">
+      <Text>Какие строительные объекты относятся к гражданским?(два варианта ответов)</Text>
+      <Answers>
+        <Answer IsRight="true">школы</Answer>
+        <Answer IsRight="false">здания заводов</Answer>
+        <Answer IsRight="true">театры</Answer>
+        <Answer IsRight="false">мосты</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Как называются перекрытия над верхним этажом?</Text>
+      <Answers>
+        <Answer IsRight="true">чердачным</Answer>
+        <Answer IsRight="false">цокольным</Answer>
+        <Answer IsRight="false">междуэтажным</Answer>
+        <Answer IsRight="false">смежным  </Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Территория между промышленным предприятием и жилой застройкой называется</Text>
+      <Answers>
+        <Answer IsRight="true">санитарно-защитной зоной</Answer>
+        <Answer IsRight="false">буферной зоной</Answer>
+        <Answer IsRight="false">коммунально-хозяйственной зоной</Answer>
+        <Answer IsRight="false">охранной зоной</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Уклон аварийных лестниц принимают:</Text>
+      <Answers>
+        <Answer IsRight="true">не более 45 градусов</Answer>
+        <Answer IsRight="false">65 градусов</Answer>
+        <Answer IsRight="false">55 градусов</Answer>
+        <Answer IsRight="false">более 50 градусов</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Подземная часть здания, воспринимающая нагрузку от вышележащих конструкций и передающая её на грунт, называется</Text>
+      <Answers>
+        <Answer IsRight="true">Фундамент</Answer>
+        <Answer IsRight="false">Отмостка </Answer>
+        <Answer IsRight="false">Цоколь</Answer>
+        <Answer IsRight="false">Подвал </Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Какой вид называют главным?</Text>
+      <Answers>
+        <Answer IsRight="true">вид спереди</Answer>
+        <Answer IsRight="false">вид снизу</Answer>
+        <Answer IsRight="false">вид сверху</Answer>
+        <Answer IsRight="false">вид сзади</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Вынесенная за плоскость фасадной стены часть помещений – это:</Text>
+      <Answers>
+        <Answer IsRight="false">лоджия</Answer>
+        <Answer IsRight="false">балкон</Answer>
+        <Answer IsRight="false">мансарда</Answer>
+        <Answer IsRight="true">эркер</Answer>
+      </Answers>
+    </Question>
+      <Question IsOnlyOne="true">
+      <Text>Как называются удлиненные элементы-балки, на которые укладывается кровля?</Text>
+      <Answers>
+        <Answer IsRight="true">Стропила</Answer>
+        <Answer IsRight="false">Фундамент</Answer>
+        <Answer IsRight="false">Колонны</Answer>
+        <Answer IsRight="false">Перемычки</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Каких типов фонарей не существует?</Text>
+      <Answers>
+        <Answer IsRight="false">прямоугольные</Answer>
+        <Answer IsRight="false">зубчатые</Answer>
+        <Answer IsRight="false">зенитные</Answer>
+        <Answer IsRight="true">все типы из перечисленных выше существуют</Answer>
+      </Answers>
+    </Question>
+  </Questions>
+</Test>

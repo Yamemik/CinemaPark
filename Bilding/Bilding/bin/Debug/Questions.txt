@@ -1,0 +1,72 @@
+Проектирование зданий
+Чертеж это:
+ документ, состоящий из изображений предмета
+ документ, состоящий из изображений фигуры
+ бумага с надписями и чертежами
+ формат с надписями и чертежами
+Какие строительные объекты относятся к гражданским?(два варианта ответов)</Text>
+ школы</Answer>
+ здания заводов</Answer>
+ театры</Answer>
+ мосты</Answer>
+Как называются перекрытия над верхним этажом?</Text>
+ чердачным</Answer>
+ цокольным</Answer>
+ междуэтажным</Answer>
+ смежным  </Answer>
+Территория между промышленным предприятием и жилой застройкой называется</Text>
+ санитарно-защитной зоной</Answer>
+ буферной зоной</Answer>
+ коммунально-хозяйственной зоной</Answer>
+ охранной зоной</Answer>
+Уклон аварийных лестниц принимают:</Text>
+ не более 45 градусов</Answer>
+        <Answer IsRight="false">65 градусов</Answer>
+        <Answer IsRight="false">55 градусов</Answer>
+        <Answer IsRight="false">более 50 градусов</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Подземная часть здания, воспринимающая нагрузку от вышележащих конструкций и передающая её на грунт, называется</Text>
+      <Answers>
+        <Answer IsRight="true">Фундамент</Answer>
+        <Answer IsRight="false">Отмостка </Answer>
+        <Answer IsRight="false">Цоколь</Answer>
+        <Answer IsRight="false">Подвал </Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Какой вид называют главным?</Text>
+      <Answers>
+        <Answer IsRight="true">вид спереди</Answer>
+        <Answer IsRight="false">вид снизу</Answer>
+        <Answer IsRight="false">вид сверху</Answer>
+        <Answer IsRight="false">вид сзади</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Вынесенная за плоскость фасадной стены часть помещений – это:</Text>
+      <Answers>
+        <Answer IsRight="false">лоджия</Answer>
+        <Answer IsRight="false">балкон</Answer>
+        <Answer IsRight="false">мансарда</Answer>
+        <Answer IsRight="true">эркер</Answer>
+      </Answers>
+    </Question>
+      <Question IsOnlyOne="true">
+      <Text>Как называются удлиненные элементы-балки, на которые укладывается кровля?</Text>
+      <Answers>
+        <Answer IsRight="true">Стропила</Answer>
+        <Answer IsRight="false">Фундамент</Answer>
+        <Answer IsRight="false">Колонны</Answer>
+        <Answer IsRight="false">Перемычки</Answer>
+      </Answers>
+    </Question>
+    <Question IsOnlyOne="true">
+      <Text>Каких типов фонарей не существует?</Text>
+      <Answers>
+        <Answer IsRight="false">прямоугольные</Answer>
+        <Answer IsRight="false">зубчатые</Answer>
+        <Answer IsRight="false">зенитные</Answer>
+        <Answer IsRight="true">все типы из перечисленных выше существуют</Answer>
+      
